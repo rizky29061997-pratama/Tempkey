@@ -6,7 +6,14 @@
     "expiresAt": "2050-12-01",
     "allowOffline": true
   },
-  
+
+  {
+    "id": "a885849bb112bf04",
+    "username": "itpal",
+    "password": "sky45",
+    "expiresAt": "2025-12-16",
+    "allowOffline": true
+  },
   {
     "id": "89ece6b2eef6576b",
     "username": "rahmat",
