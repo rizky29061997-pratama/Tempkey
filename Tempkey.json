@@ -1,4 +1,11 @@
 [
+{
+    "id": "4000c5960413b92a",
+    "username": "free",
+    "password": "pratama",
+    "expiresAt": "2025-12-12",
+    "allowOffline": true
+  },
   {
     "id": "5d3a74693442c5eb",
     "username": "krp123",
