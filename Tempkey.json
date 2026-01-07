@@ -11,14 +11,14 @@
     "id": "89ece6b2eef6576b",
     "username": "mamat",
     "password": "mamat123",
-    "expiresAt": "2026-01-30",
+    "expiresAt": "2020-01-30",
     "allowOffline": true
   },
 {
     "id": "49dbf0ba22638e0d",
     "username": "ramon",
     "password": "ramon123",
-    "expiresAt": "2026-01-30",
+    "expiresAt": "2020-01-30",
     "allowOffline": true
   },
   {
@@ -33,14 +33,14 @@
     "id": "9955a2125f461b43",
     "username": "user",
     "password": "user123",
-    "expiresAt": "2026-01-30",
+    "expiresAt": "2020-01-30",
     "allowOffline": true
   },
   {
     "id": "cf1540c45eb7d62b",
     "username": "walet",
     "password": "walet123",
-    "expiresAt": "2026-01-30",
+    "expiresAt": "2020-01-30",
     "allowOffline": true 
   }
 ]
