@@ -7,6 +7,13 @@
     "expiresAt": "2026-02-01",
     "allowOffline": true
   },
+{
+    "id": "49dbf0ba22638e0d",
+    "username": "ramon",
+    "password": "ramon123",
+    "expiresAt": "2026-01-30",
+    "allowOffline": true
+  },
   {
     "id": "5c412c22923b0828",
     "username": "kiki",
