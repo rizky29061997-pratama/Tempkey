@@ -1,4 +1,4 @@
-[
+9[
 
   {
     "id": "b56f2c030eaf69ff",
@@ -38,9 +38,9 @@
   },
   {
     "id": "cf1540c45eb7d62b",
-    "username": "walet",
-    "password": "walet123",
-    "expiresAt": "2020-01-30",
+    "username": "user03",
+    "password": "prt03",
+    "expiresAt": "2026-01-26",
     "allowOffline": true 
   }
 ]
