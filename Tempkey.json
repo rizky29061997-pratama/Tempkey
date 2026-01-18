@@ -1,4 +1,4 @@
-9[
+[
 
   {
     "id": "b56f2c030eaf69ff",
@@ -42,5 +42,5 @@
     "password": "prt03",
     "expiresAt": "2026-01-26",
     "allowOffline": true 
-  }
+  },
 ]
