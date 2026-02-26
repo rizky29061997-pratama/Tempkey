@@ -1,5 +1,14 @@
 [
 
+
+{
+    "id": "b4e165a1d863a4c5",
+    "username": "itpal",
+    "password": "admin",
+    "expiresAt": "2026-03-01",
+    "allowOffline": true
+  },
+
   {
     "id": "b56f2c030eaf69ff",
     "username": "pratama",
