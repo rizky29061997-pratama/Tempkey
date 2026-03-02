@@ -1,5 +1,13 @@
 [
 
+
+{
+    "id": "45c42cdac90aec9d",
+    "username": "maulana",
+    "password": "alba",
+    "expiresAt": "2026-03-22",
+    "allowOffline": true
+  },
 {
     "id": "6adce60d10fd5020",
     "username": "panjoel",
