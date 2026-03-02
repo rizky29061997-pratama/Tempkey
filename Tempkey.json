@@ -22,13 +22,7 @@
     "expiresAt": "2026-04-01",
     "allowOffline": true
   },
-{
-    "id": "99a9bca1c5933e35",
-    "username": "user01",
-    "password": "123",
-    "expiresAt": "2026-04-02",
-    "allowOffline": true
-  },
+
 {
     "id": "89ece6b2eef6576b",
     "username": "user02",
@@ -55,7 +49,7 @@
     "id": "99a9bca1c5933e35",
     "username": "user03",
     "password": "prt03",
-    "expiresAt": "2026-03-01",
+    "expiresAt": "2026-04-01",
     "allowOffline": true
   },
 {
