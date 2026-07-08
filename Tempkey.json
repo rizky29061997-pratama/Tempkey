@@ -16,13 +16,7 @@
     "expiresAt": "2026-07-30",
     "allowOffline": true
   },
-{
-    "id": "e576c181b0ea2049",
-    "username": "deni",
-    "password": "12345",
-    "expiresAt": "2026-06-24",
-    "allowOffline": true
-  },
+
 {
     "id": "92d85c6fd956f904",
     "username": "usernew",
@@ -51,14 +45,6 @@
     "username": "kiki",
     "password": "krp123",
     "expiresAt": "2030-02-06",
-    "allowOffline": true
-  },
-  
-  {
-    "id": "d505e2c3c99a8d57",
-    "username": "teddy",
-    "password": "prtmaps",
-    "expiresAt": "2026-07-02",
     "allowOffline": true
   },
   {
