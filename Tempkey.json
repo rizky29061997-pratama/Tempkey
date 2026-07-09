@@ -1,5 +1,4 @@
 [
-
 {
     "id": "6b119767ffc015dd",
     "username": "sby",
@@ -7,8 +6,6 @@
     "expiresAt": "2026-07-12",
     "allowOffline": true
   },
-
-
 {
     "id": "9815348d9be3ed41",
     "username": "user",
@@ -16,23 +13,13 @@
     "expiresAt": "2026-07-30",
     "allowOffline": true
   },
-
 {
-    "id": "92d85c6fd956f904",
-    "username": "jumaidi",
-    "password": "mapsprt",
-    "expiresAt": "2026-08-04",
-    "allowOffline": true
-  },
-
-  {
     "id": "b56f2c030eaf69ff",
     "username": "pratama",
     "password": "maps",
     "expiresAt": "2026-08-01",
     "allowOffline": true
   },
-
 {
     "id": "89ece6b2eef6576b",
     "username": "user02",
@@ -61,5 +48,13 @@
     "expiresAt": "2026-08-07",
     "allowOffline": true
   },
+{
+    "id": "92d85c6fd956f904",
+    "username": "jumaidi",
+    "password": "mapsprt",
+    "expiresAt": "2026-08-04",
+    "allowOffline": true
+  },
+
 ]
 
