@@ -1,8 +1,8 @@
 [
 {
-    "id": "1c18cf01c30a36bb",
-    "username": "bagas",
-    "password": "grab111",
+    "id": "9a166847a1a7f439",
+    "username": "katakuri",
+    "password": "grab567",
     "expiresAt": "2026-09-06",
     "allowOffline": true
   },
@@ -48,13 +48,7 @@
     "expiresAt": "2026-08-19",
     "allowOffline": true
   },
-{
-    "id": "9a166847a1a7f439",
-    "username": "katakuri",
-    "password": "muarakarang",
-    "expiresAt": "2026-09-07",
-    "allowOffline": true
-  },
+
   {
     "id": "c0119fe1dd3fb2fc",
     "username": "riski",
